@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.xcsmm.xyz/"/>
-  <updated>2020-03-18T16:20:36.221Z</updated>
+  <updated>2020-03-18T16:23:16.051Z</updated>
   <id>https://blog.xcsmm.xyz/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://blog.xcsmm.xyz/2020/03/18/Manjaro%E5%AE%89%E8%A3%85Navicat/"/>
     <id>https://blog.xcsmm.xyz/2020/03/18/Manjaro%E5%AE%89%E8%A3%85Navicat/</id>
     <published>2020-03-18T15:30:42.000Z</published>
-    <updated>2020-03-18T16:20:36.221Z</updated>
+    <updated>2020-03-18T16:23:16.051Z</updated>
     
     <summary type="html">
     
@@ -33,7 +33,11 @@
       <category term="App" scheme="https://blog.xcsmm.xyz/categories/App/"/>
     
     
-      <category term="navicat manjaro linux" scheme="https://blog.xcsmm.xyz/tags/navicat-manjaro-linux/"/>
+      <category term="manjaro" scheme="https://blog.xcsmm.xyz/tags/manjaro/"/>
+    
+      <category term="linux" scheme="https://blog.xcsmm.xyz/tags/linux/"/>
+    
+      <category term="navicat" scheme="https://blog.xcsmm.xyz/tags/navicat/"/>
     
   </entry>
   
